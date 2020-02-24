@@ -5,7 +5,7 @@
 - 操作系统：ubuntu18.04
 
 - ssr：使用 ```electron-ssr-0.2.6```客户端
-  下载地址：[点击下载](https://github.com/bryceustc/ssrForUbuntu)（这里是github下载，如果不能翻墙的朋友可能会有点慢，请用百度网盘下载）
+  下载地址：[点击下载](https://github.com/bryceustc/ssrForUbuntu/releases)（在release中下载，推荐使用百度网盘下载）
   
   百度网盘下载地址：[网盘地址](https://pan.baidu.com/s/1u56oUV37RYi7CtaCSV9O7Q)  密码: s5sr
 
