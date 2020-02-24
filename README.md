@@ -13,9 +13,13 @@
 
 - 点击已经下载的` .deb`文件进行安装
 - 安装完后如图
-  ![在这里插入图片描述](img/1.png)
-  ![在这里插入图片描述](img/2.jpg)
-- 随后的操作和windows、Android下的操作一样，登录自己的账号就可舒舒服服的使用了google、youtube。
+
+  ![1](img/1.png)
+  
+  ![2](img/2.jpg)
+  
+  ![3](img/3.jpg)
+- 随后的操作和Windows下的操作一样，登录自己的账号就可舒舒服服的使用了google、youtube。
 
 ## 三、注意事项
 
